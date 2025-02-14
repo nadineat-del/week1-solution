@@ -1,0 +1,72 @@
+2025-02-14T13:39:47.718242900 - 	New Savings Account created: 2
+2025-02-14T13:54:11.165403500 - Account Created: AccountNumber: 1234, Owner: nadine, Balance: $1000.0
+ 
+- Account Created:2025-02-14T13:57:35.369246600 
+- Account Number:12
+Owner: geraldine
+Balance: $1000.0
+ 	
+- Account Created:2025-02-14T13:59:29.911329 	 
+- Account Number:12	
+Owner: ge	
+Balance: $1000.0
+
+	Account Created: 2025-02-14T14:03:21.856253
+	Account Number: 123
+	Account Name  : Geraldine
+	Balance       : $1000.0
+
+	Account Created: 2025-02-14T14:04:10.509158800
+	Account Number : 1234
+	Account Name   : gewr
+	Balance        : $1200.0
+
+	Account Created: 2025-02-14T14:05:46.599204900
+	Account Number : 1234
+	Account Name   : ge
+	Balance        : $200.0
+
+	Account Created: 2025-02-14T14:41:53.175814100
+	Account Number : 1234
+	Account Name   : geraldine
+	Balance        : $1200.0
+
+	Account Created: 2025-02-14T14:41:53.192808800
+	Account Number : 1234
+	Account Name   : geraldine
+	Balance        : $1200.0
+
+	Account Created: 2025-02-14T14:43:21.230050800
+	Account Number : 123
+	Account Name   : Geraldine
+	Balance        : $12000.0
+
+	Account Created: 2025-02-14T14:43:21.240049900
+	Account Number : 123
+	Account Name   : Geraldine
+	Balance        : $12000.0
+
+	Account Created: 2025-02-14T14:46:17.077587800
+	Account Number : 123
+	Account Name   : gege
+	Balance        : $100.0
+
+	Account Created: 2025-02-14T14:46:17.094909300
+	Account Number : 123
+	Account Name   : gege
+	Balance        : $100.0
+
+	Account Created: 2025-02-14T14:49:00.246366500
+	Account Number : 123
+	Account Name   : geg
+	Balance        : $100.0
+
+	Account Created: 2025-02-14T15:29:04.902010800
+	Account Number : 1515
+	Account Name   : Geraldine
+	Balance        : $1000.0
+
+	Account Created: 2025-02-14T15:30:00.637867
+	Account Number : 189
+	Account Name   : gege
+	Balance        : $200.0
